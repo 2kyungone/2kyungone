@@ -3,7 +3,8 @@
   ### Hi there 👋
   
   This is Kyungwon Lee, who is aiming to become a backend developer!
-  I’m currently learning in SSAFY 9th!
+  
+  I’m currently growing up in SSAFY 9th!
   
   <!--
   아이콘 배지 넣는 방법
