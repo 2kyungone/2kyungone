@@ -1,8 +1,8 @@
 <div align="center">
 ### Hi there 👋
-
-I'm aiming for a backend developer!
-It is currently growing in the 9th stage of SSAFY.
+  
+This is Kyungwon Lee, who is aiming to become a backend developer!
+I’m currently learning in SSAFY 9th!
 
 
 
