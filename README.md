@@ -1,5 +1,5 @@
-<div align="center">
 ### Hi there 👋
+<div align="center">
   
 This is Kyungwon Lee, who is aiming to become a backend developer!
 I’m currently learning in SSAFY 9th!
