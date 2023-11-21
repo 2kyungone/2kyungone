@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hi there 👋
+  ### 👻 About Me
   
   This is Kyungwon Lee, who is aiming to become a backend developer!
   
@@ -29,7 +29,7 @@
         <td>
             <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
             <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-<!--             <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"> -->
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
         </td>
     </tr>
     <tr>
