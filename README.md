@@ -1,10 +1,10 @@
 <div align="center">
   
-  ### 👻 About Me
+  <h2>About Me 👻</h2>
   
-  This is Kyungwon Lee, who is aiming to become a backend developer!
+  I’m <b>Kyungwon Lee</b>, who is aiming to become a backend developer!
   
-  I’m currently growing up in SSAFY 9th!
+  🌱 I’m currently learning in <b>SSAFY 9th</b> ><...
   
   <!--
   아이콘 배지 넣는 방법
@@ -12,7 +12,7 @@
     2. <img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/> 
   -->
   
-  ### Skills
+  <h2>Skills ⚡</h2>
   <table>
     <tr>
         <td><b>Back-end</b></td>
@@ -68,13 +68,12 @@
 
 <h2>My GitHub Analytics 🔍</h2>  
 
-  <!--Most Language-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kyungone&layout=compact&theme=flag-india)
 
   <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=2kyungone&show_icons=true&count_private=true&theme=flag-india"/>
-    <img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=2kyungone&show_icons=true&count_private=true&theme=buefy"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2kyungone&show_icons=true&count_private=true&theme=buefy"/>
   </div>
+
 
 
 
