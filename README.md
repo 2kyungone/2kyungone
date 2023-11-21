@@ -65,7 +65,12 @@
     </tr>
 </table>
 
-
+<hr>
+  
+  <!--GitHub Status-->
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2kyungone&show_icons=true&theme=tokyonight)
+  <!--Most Language-->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kyungone&layout=compact&theme=tokyonight)
 
 
 
