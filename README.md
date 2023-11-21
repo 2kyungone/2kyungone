@@ -39,7 +39,7 @@
             <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=JavaScript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/axios-5A29E4?logo=axios&logoColor=white">
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=TypeScript&logoColor=white"/>
             <img src="https://img.shields.io/badge/react-018EF5?logo=react&logoColor=white">
             <img src="https://img.shields.io/badge/recoil-3578E5?logo=recoil&logoColor=white">
         </td>
@@ -66,13 +66,15 @@
     </tr>
 </table>
 
-<hr>
-  
-  <!--GitHub Status-->
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2kyungone&show_icons=true&theme=tokyonight)
-  <!--Most Language-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kyungone&layout=compact&theme=tokyonight)
+<h2>My GitHub Analytics 🔍</h2>  
 
+  <!--Most Language-->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kyungone&layout=compact&theme=flag-india)
+
+  <div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=2kyungone&show_icons=true&count_private=true&theme=flag-india"/>
+    <img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  </div>
 
 
 
