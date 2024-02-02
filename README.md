@@ -1,10 +1,14 @@
 <div align="center">
   
   <h2>About Me 👻</h2>
+  I'm <b>Kyungwon</b> Lee who aims to be a backend developer!
   
+  I completed <b>SSAFY</b> and am currently working as a freelancer.
+  <!--
   I’m <b>Kyungwon Lee</b>, who is aiming to become a backend developer!
   
   🌱 I’m currently learning in <b>SSAFY 9th</b> ><...
+  -->
   
   <!--
   아이콘 배지 넣는 방법
