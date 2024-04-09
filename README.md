@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+  <!--
   <h2>About Me 👻</h2>
   I'm <b>Kyungwon</b> Lee who aims to be a backend developer!
   
@@ -9,7 +10,7 @@
   
   🌱 I’m currently learning in <b>SSAFY 9th</b> ><...
   -->
-  
+  -->
   <!--
   아이콘 배지 넣는 방법
     1. https://simpleicons.org 에서 원하는 아이콘 찾기
